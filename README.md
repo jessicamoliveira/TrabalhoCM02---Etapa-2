@@ -11,12 +11,20 @@
 int main()
 {
 
+   
    struct { // Struct de vetores para cadastro
+   
+   
+   
     char nome[tam];
+    
     char cpf[tam];
+    
     char telefone[tam];
     char endereco[tam];
+    
     char nomepet[tam];
+   
     char animal [tam];
     char raca[tam];
     int idade[tam];
